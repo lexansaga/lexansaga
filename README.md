@@ -65,7 +65,7 @@
 </div>
 
 ###
-
+<!---
 <h2 align="left">🤖 Progress</h2>
 
 <br clear="both">
@@ -90,7 +90,7 @@
 </div>
 
 </div>
-
+-->
 ###
 
 <h2 align="left">🎧 Vibe with Me</h2>
