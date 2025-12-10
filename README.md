@@ -13,51 +13,51 @@
 <h2 align="left">🛠️ Tools & Technologies</h2>
 <br clear="both">
 <div align="center">
-  <a href="https://www.alexandersaga.com/projects/react" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/react">
     <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/typescript" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/typescript">
     <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/tailwind" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/tailwind">
     <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/csharp" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/csharp">
     <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/html" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/html">
     <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/css" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/css">
     <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/javascript" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/javascript">
     <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/android-studio" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/android-studio">
     <img src="https://skillicons.dev/icons?i=androidstudio" height="40" alt="androidstudio logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/java" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/java">
     <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/kotlin" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/kotlin">
     <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/firebase" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/firebase">
     <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo" />
   </a>
   <img width="12" />
-  <a href="https://www.alexandersaga.com/projects/wordpress" target="_blank">
+  <a href="https://www.alexandersaga.com/projects/wordpress">
     <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo" />
   </a>
 </div>
@@ -65,13 +65,13 @@
 <h2 align="left">🔗 Connect with Me</h2>
 <br clear="both">
 <div align="center">
-  <a href="https://www.linkedin.com/in/lexan-saga" target="_blank">
+  <a href="https://www.linkedin.com/in/lexan-saga">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="https://www.instagram.com/lexan.saga/" target="_blank">
+  <a href="https://www.instagram.com/lexan.saga/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" />
   </a>
-  <a href="https://www.facebook.com/LexanSaga" target="_blank">
+  <a href="https://www.facebook.com/LexanSaga">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" />
   </a>
 </div>
